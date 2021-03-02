@@ -1,0 +1,41 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.title1 {
+    background-color: mediumspringgreen;
+}
+
+.title2 {
+    background-color: lightcoral;
+}
+
+.title3 {
+    background-color: skyblue;
+}
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("./Images/pattern.jpeg");
+    margin-top: 68px;
+    margin-bottom: 68px;
+}
+
+h3,
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#price {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
